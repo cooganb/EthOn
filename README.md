@@ -42,7 +42,7 @@ Find more illustrations here: [EthOn illustrations](EthOn_illustrations.md)
 
 ### 2. Visualize the Ontology
 Visualize the ontology using [WebVOWL](http://vowl.visualdataweb.org/webvowl/).
-[It should be enough to click this link](http://visualdataweb.de/webvowl/#iri=http://ethon.consensys.net/EthOn.ttl). 
+[It should be enough to click this link](http://www.visualdataweb.de/webvowl/#iri=https://raw.githubusercontent.com/ConsenSys/EthOn/master/EthOn.ttl). 
 WebVOWL is also developed on GitHub: https://github.com/VisualDataWeb/WebVOWL
 
 ### 3. Check out the specification
